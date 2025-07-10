@@ -3,10 +3,6 @@
   <img src="assets/banner.jpeg" alt="İbrahim Diken Banner" width="100%" />
 </p>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Merhaba,+ben+İbrahim+Diken!;Yapay+zeka+geliştiricisiyim;Open+Source+aşığıyım;Sizi+şaşırtacak+projeler+yapıyorum!&center=true&width=500&height=50&color=F700FF&vCenter=true&pause=1000" alt="Typing SVG" />
-</h1>
-
 ---
 
 ## 💡 Hakkımda
